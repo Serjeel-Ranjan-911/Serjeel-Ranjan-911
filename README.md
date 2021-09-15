@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/>  Hey I'm 
-<a href="https://serjeel-ranjan.netlify.com" target="_blank"><h2>𝕊𝕖𝕣𝕛𝕖𝕖𝕝 ℝ𝕒𝕟𝕛𝕒𝕟</h2></a>
+<a href="https://serjeel-ranjan.netlify.com" target="_blank">𝕊𝕖𝕣𝕛𝕖𝕖𝕝 ℝ𝕒𝕟𝕛𝕒𝕟</a>
 </h1>
 
 <p align="center">
