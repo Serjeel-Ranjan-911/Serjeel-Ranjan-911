@@ -39,10 +39,8 @@
 <h2 align="center">My Github's Stats:</h2>
 
 <p align="center">
-<img width="50%" height="270px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true" align="left">
-
-
-<img width="42%" height="270px" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight" align="right">
+<img width="70%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
+<img width="70%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
 </p>  
 
 <p align="center">
