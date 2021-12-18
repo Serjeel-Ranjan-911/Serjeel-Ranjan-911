@@ -45,7 +45,7 @@
 
 <p align="center">
 <img width="30%" alt="Top Used Technologies" src="./img/qr code portfolio.png">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" width="30%" alt="Serjeel Ranjan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips" style="margin-left: 10%;"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" width="30%" alt="Serjeel Ranjan's Dev Card"/></a>
 </p>
 
 <h2 align="center">My Social:</h2>
