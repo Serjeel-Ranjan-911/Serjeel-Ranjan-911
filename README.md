@@ -41,11 +41,12 @@
 <p align="center">
 <img width="70%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
 <img width="70%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
-</p>  
+</p>
 
 <p align="center">
 <img width="30%" alt="Top Used Technologies" src="./img/qr code portfolio.png">
-</p>  
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" width="30%" alt="Serjeel Ranjan's Dev Card"/></a>
+</p>
 
 <h2 align="center">My Social:</h2>
 <p align="center">
@@ -53,4 +54,3 @@
 <a href="https://twitter.com/r_serjeel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/serjeel-ranjan-0331b31ab" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
