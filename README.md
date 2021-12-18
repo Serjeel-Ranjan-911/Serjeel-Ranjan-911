@@ -44,12 +44,12 @@
 </p>
 
 <p align="center">
-<p width="50%">Staying Updated :sunglasses: :arrow_forward:</p>
-<a href="https://app.daily.dev/DailyDevTips" width="30%"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" width="30%" alt="Serjeel Ranjan's Dev Card"/></a>
+<p width="30%">Staying Updated :sunglasses: :arrow_forward:</p>
+<img width="30%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
 </p>
 
 <p align="center">
-<img width="30%" alt="Top Used Technologies" src="./img/qr code portfolio.png">
+<img width="30%" alt="Link to portfolio" src="./img/qr code portfolio.png">
 </p>
 
 <h2 align="center">My Social:</h2>
