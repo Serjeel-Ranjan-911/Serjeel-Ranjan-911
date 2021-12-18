@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<p width="30%">Staying Updated :sunglasses: :arrow_forward:</p>
+Staying Updated :sunglasses:
 <img width="30%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
 </p>
 
