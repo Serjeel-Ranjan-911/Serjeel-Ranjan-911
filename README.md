@@ -45,7 +45,7 @@
 
 <p align="center">
 <h4 width="50%">Staying Updated :sunglasses: :arrow_forward:</h4>
-<a href="https://app.daily.dev/DailyDevTips" width="30%"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips" width="30%"><img src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" width="30%" alt="Serjeel Ranjan's Dev Card"/></a>
 </p>
 
 <p align="center">
