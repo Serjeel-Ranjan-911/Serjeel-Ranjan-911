@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Serjeel-Ranjan-911?color=%23db1460&label=Stalkers&logo=Ghostery&logoColor=%23db1460&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Serjeel-Ranjan-911?color=%23db1460&label=Friends&logo=Ghostery&logoColor=%23db1460&style=for-the-badge">
 <a href="https://serjeel-ranjan.netlify.com" target="_blank"><img alt="Website" src="https://img.shields.io/website?color=%23db1460&down_message=Offline&label=Website&logo=firefox&logoColor=%23db1460&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fserjeel-ranjan.netlify.com"></a>
 <a href="https://www.hackerrank.com/RANJAN_19BCS009" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27"></a>
 </p>
@@ -36,17 +36,17 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
+<h1></h1>
+
 <h2 align="center">My Github's Stats:</h2>
 
-<p align="center">
-<img width="70%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
-<img width="70%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
+<img align="right" width="32%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
+
+<p align="left">
+<img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
+<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
 </p>
 
-<p align="center">
-Staying Updated :sunglasses:
-<img width="30%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
-</p>
 
 <p align="center">
 <img width="30%" alt="Link to portfolio" src="./img/qr code portfolio.png">
