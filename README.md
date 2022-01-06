@@ -36,7 +36,17 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
-<h1></h1>
+<h1></h1> 
+
+<h3 align="center">Blockchain Enthusiast</h3>
+
+<p align="center">
+<img width="40%" alt="Link to portfolio" src="./img/nft.gif">
+</p>
+
+<p align="center">
+"It's Gold For Geeks"
+</p>
 
 <h2 align="center">My Github's Stats:</h2>
 
