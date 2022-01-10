@@ -9,6 +9,8 @@
 <a href="https://www.hackerrank.com/RANJAN_19BCS009" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27"></a>
 </p>
 
+Building for better.
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -36,7 +38,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
-<h1></h1> 
+<h1></h1>
 
 <h3 align="center">Blockchain Enthusiast</h3>
 
@@ -57,9 +59,8 @@
 <img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
 </p>
 
-
 <p align="center">
-<img width="30%" alt="Link to portfolio" src="./img/qr code portfolio.png">
+<img width="25%" alt="Link to portfolio" src="./img/qr code portfolio.png">
 </p>
 
 <h2 align="center">My Social:</h2>
@@ -67,4 +68,11 @@
 <a href="https://github.com/Serjeel-Ranjan-911" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/r_serjeel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/serjeel-ranjan-0331b31ab" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<h3 align="center">You can support me here :blush:</h3>
+
+<p align="center">
+<a href="./files/ethereum.txt" target="_blank"><img src="./img/ethereumwallet.png" alt="Ethereum wallet" style="height: 35px !important;width: 145px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius: 5px;" ></a>
+<a href="https://www.buymeacoffee.com/SerjeelRanjan" target="_blank"><img src="./img/buymeacoffee.webp" alt="Buy Me A Coffee" style="height: 35px !important;width: 145px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius: 5px;" ></a>
 </p>
