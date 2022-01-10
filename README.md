@@ -73,6 +73,6 @@ Building for better.
 <h3 align="center">You can support me here :blush:</h3>
 
 <p align="center">
-<a href="./files/ethereum.txt" target="_blank"><img src="./img/ethereumwallet.png" alt="Ethereum wallet" style="height: 35px !important;width: 145px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius: 5px;" ></a>
+<a href="./files/ethereum.txt" target="_blank"><img src="./img/ethereumaddress.png" alt="Ethereum wallet" style="height: 35px !important;width: 145px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius: 5px;" ></a>
 <a href="https://www.buymeacoffee.com/SerjeelRanjan" target="_blank"><img src="./img/buymeacoffee.webp" alt="Buy Me A Coffee" style="height: 35px !important;width: 145px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius: 5px;" ></a>
 </p>
