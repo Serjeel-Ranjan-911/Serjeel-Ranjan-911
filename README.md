@@ -40,15 +40,12 @@ Building for better.
 
 <h1></h1>
 
-<h3 align="center">Blockchain Enthusiast</h3>
+<p align="center">"It's Gold For Geeks"</p>
 
 <p align="center">
 <img width="40%" alt="Link to portfolio" src="./img/nft.gif">
 </p>
 
-<p align="center">
-"It's Gold For Geeks"
-</p>
 
 <h2 align="center">My Github's Stats:</h2>
 
@@ -56,7 +53,7 @@ Building for better.
 
 <p align="left">
 <img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
-<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight">
+<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight&langs_count=10">
 </p>
 
 <p align="center">
