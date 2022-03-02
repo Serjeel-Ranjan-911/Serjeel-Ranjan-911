@@ -11,6 +11,14 @@
 
 Building for better.
 
+*Got NODE installed on your PC?*
+
+- Shoot up your fancy terminal and try out this command for some fun
+
+```sh
+npx serjeel_ranjan -y
+```
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
