@@ -7,11 +7,12 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Serjeel-Ranjan-911?color=%23db1460&label=Friends&logo=Ghostery&logoColor=%23db1460&style=for-the-badge">
 <a href="https://serjeel-ranjan.netlify.com" target="_blank"><img alt="Website" src="https://img.shields.io/website?color=%23db1460&down_message=Offline&label=Website&logo=firefox&logoColor=%23db1460&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fserjeel-ranjan.netlify.com"></a>
 <a href="https://www.hackerrank.com/RANJAN_19BCS009" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27"></a>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Serjeel-Ranjan-911?color=db1460&label=Stargazers&logo=Macys&logoColor=db1460&style=for-the-badge">
 </p>
 
 Building for better.
 
-*Got NODE installed on your PC?*
+*Got Node.js installed on your PC?*
 
 - Shoot up your fancy terminal and try out this command for some fun
 
