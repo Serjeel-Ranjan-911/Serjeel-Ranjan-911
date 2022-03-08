@@ -58,11 +58,11 @@ npx serjeel_ranjan -y
 
 <h2 align="center">My Github's Stats:</h2>
 
-<img align="right" width="32%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
+<img align="right" width="37%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
 
 <p align="left">
 <img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
-<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight&langs_count=10">
+<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight&langs_count=20">
 </p>
 
 <p align="center">
