@@ -58,7 +58,7 @@ npx serjeel_ranjan -y
 
 <h2 align="center">My Github's Stats:</h2>
 
-<img align="right" width="40%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
+<img align="right" width="37%" src="https://github.com/Serjeel-Ranjan-911/Serjeel-Ranjan-911/blob/main/devcard.svg" alt="Serjeel Ranjan's Dev Card"/>
 
 <p align="left">
 <img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Serjeel-Ranjan-911&show_icons=true&theme=tokyonight&hide=stars_private=true">
@@ -73,7 +73,7 @@ npx serjeel_ranjan -y
 <p align="center">
 <a href="https://github.com/Serjeel-Ranjan-911" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/r_serjeel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/serjeel-ranjan-0331b31ab" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/serjeel-ranjan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
