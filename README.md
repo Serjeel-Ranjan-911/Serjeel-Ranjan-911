@@ -6,13 +6,12 @@
 <p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Serjeel-Ranjan-911?color=%23db1460&label=Friends&logo=Ghostery&logoColor=%23db1460&style=for-the-badge">
 <a href="https://serjeel-ranjan.netlify.com" target="_blank"><img alt="Website" src="https://img.shields.io/website?color=%23db1460&down_message=Offline&label=Website&logo=firefox&logoColor=%23db1460&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fserjeel-ranjan.netlify.com"></a>
-<a href="https://www.hackerrank.com/RANJAN_19BCS009" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27"></a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Serjeel-Ranjan-911?color=db1460&label=Stargazers&logo=Macys&logoColor=db1460&style=for-the-badge">
 </p>
 
 Building for better.
 
-*Got Node.js installed on your PC?*
+_Got Node.js installed on your PC?_
 
 - Shoot up your fancy terminal and try out this command for some fun
 
@@ -47,6 +46,12 @@ npx serjeel_ranjan -y
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
+## My Competitive Profile
+
+<a href="https://www.hackerrank.com/RANJAN_19BCS009" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27"></a>
+<a href="https://cssbattle.dev/player/serjeel_ranjan" target="_blank"><img src="./img/cssbattle.png" alt="CSS Battle"></a>
+<a href="https://codeforces.com/profile/Serjeel_Ranjan" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces"></a>
+
 <h1></h1>
 
 <p align="center">"It's Gold For Geeks"</p>
@@ -54,7 +59,6 @@ npx serjeel_ranjan -y
 <p align="center">
 <img width="40%" alt="Link to portfolio" src="./img/nft.gif">
 </p>
-
 
 <h2 align="center">My Github's Stats:</h2>
 
