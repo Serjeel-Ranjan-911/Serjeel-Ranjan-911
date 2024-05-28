@@ -69,9 +69,9 @@ npx serjeel_ranjan -y
 <img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjeel-Ranjan-911&layout=compact&theme=tokyonight&langs_count=20">
 </p>
 
-<p align="center">
-<img width="25%" alt="Link to portfolio" src="./img/qr code portfolio.png">
-</p>
+<!-- <p align="center"> -->
+<!-- <img width="25%" alt="Link to portfolio" src="./img/qr code portfolio.png"> -->
+<!-- </p> -->
 
 <h2 align="center">My Social:</h2>
 <p align="center">
